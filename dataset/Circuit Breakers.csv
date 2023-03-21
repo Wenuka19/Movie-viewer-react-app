@@ -1,0 +1,5 @@
+OBJECTID,FacilityID,FeederID,OperatingV,Installati,MaxContinu,MaxInterru,MaxOperati,NormalPosi,TieSwitchI,Manufactur,OWNER,OPERATINGC,CONSTRUC_1,Category,Department,Division,Subdivision,AssetType,Latitude,Longitude
+1,CB-22,RMT001,380,-65750400000,200,8000,210,1,NA,OTH,Utility,Distribution,Underground,Electric,Electric,Field Service,Asset Mgmt.,Circuit Breakers,41.78265479,-88.17179776
+2,CB-23,RMT004,380,809740800000,200,8000,380,1,NA,OTH,Utility,Distribution,Underground,Electric,Electric,Field Service,Asset Mgmt.,Circuit Breakers,41.80518971,-88.14746853
+3,CB-28,RMT003,380,809740800000,200,8000,380,1,NA,OTH,Utility,Distribution,Underground,Electric,Electric,Field Service,Asset Mgmt.,Circuit Breakers,41.80501555,-88.14828921
+4,CB-29,RMT002,380,809740800000,200,8000,210,1,NA,OTH,Utility,Distribution,Overhead,Electric,Electric,Field Service,Asset Mgmt.,Circuit Breakers,41.78261323,-88.17193671

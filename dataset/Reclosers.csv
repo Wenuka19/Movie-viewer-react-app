@@ -1,0 +1,3 @@
+OBJECTID,FacilityID,FeederID,OperatingV,Installati,MaxContinu,MaxInterru,MaxOperati,TieSwitchI,Manufactur,OWNER,OPERATINGC,CONSTRUC_1,Category,Department,Division,Subdivision,AssetType,Latitude,Longitude
+1,24,RMT003,380,809740800000,200,8000,210,N, G&W Electric,Utility,Distribution,Underground,Electric,Electric,Field Service,Asset Mgmt.,Reclosers,41.80222728,-88.14869419
+2,27,RMT002,380,913334400000,200,8000,210,N, ,Utility,Distribution,Underground,Electric,Electric,Field Service,Asset Mgmt.,Reclosers,41.76931975,-88.18766963

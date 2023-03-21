@@ -1,0 +1,5 @@
+OBJECTID,FacilityID,FeederID,Installati,ServiceCur,MeterType,RemoteRead,Category,Department,Division,Subdivision,AssetType,Latitude,Longitude
+1,PM-445,RMT001,365990400000,200,IT,N,Electric,Electric,Field Service,Asset Mgmt.,Primary Meters,41.78803237,-88.1464511
+2,PM-6477,RMT002,971308800000,200,IT,N,Electric,Electric,Field Service,Asset Mgmt.,Primary Meters,41.77652152,-88.15020983
+3,PM-226,RMT004,809740800000,200,IT,N,Electric,Electric,Field Service,Asset Mgmt.,Primary Meters,41.79833972,-88.1307917
+4,,RMT002,1275696000000,200,IT,N,Electric,Electric,Field Service,Asset Mgmt.,Primary Meters,41.76959436,-88.19418294

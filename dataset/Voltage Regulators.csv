@@ -1,0 +1,7 @@
+OBJECTID,FacilityID,FeederID,OperatingV,BoostPerce,BuckPercen,BypassSwit,Category,Department,Division,Subdivision,AssetType,Latitude,Longitude
+1,1,RMT001,380,10,10,Y,Electric,Electric,Field Service,Asset Mgmt.,Voltage Regulators,41.78802428,-88.14651395
+2,2,RMT002,380,10,10,Y,Electric,Electric,Field Service,Asset Mgmt.,Voltage Regulators,41.77657853,-88.1502038
+3,3,RMT002,380,10,10,Y,Electric,Electric,Field Service,Asset Mgmt.,Voltage Regulators,41.7779841,-88.13189369
+4,4,RMT002,380,10,10,Y,Electric,Electric,Field Service,Asset Mgmt.,Voltage Regulators,41.77233794,-88.14593279
+5,5,RMT004,380,10,10,Y,Electric,Electric,Field Service,Asset Mgmt.,Voltage Regulators,41.79855417,-88.13042301
+6,6,RMT002,380,10,10,Y,Electric,Electric,Field Service,Asset Mgmt.,Voltage Regulators,41.76953798,-88.19417664
